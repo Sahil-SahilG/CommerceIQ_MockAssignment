@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "titlel",
+      "author": "CIQ",
+      "views": 100,
+      "reviews": 31
+    },
+    {
+      "id": 1,
+      "title": "title2",
+      "author": "CommerceIQ",
+      "views": 10,
+      "reviews": 3
+    }
+  ],
+  "authors": [
+    {
+      "id": 0,
+      "first_name": "Commerce",
+      "last_name": "IQ",
+      "posts": 45
+    }
+  ]
+}
